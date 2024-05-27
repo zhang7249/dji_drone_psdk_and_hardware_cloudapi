@@ -13,6 +13,13 @@ Based on DJI drones, the PSDK provides a complete set of solutions.
 #### 盒子询价采购和基于大疆无人机的sdk开发，欢迎发邮件交流：zhangxiaolan940601@gmail.com
 ### ps: 其实这套盒子不一定非要用在飞机上，一些无人车、船、枪机或球机摄像头的前端识别、一些物联网设备等等场景都可以使用，内置了大疆psdk的环境便于二次开发，系统是ubuntu系统，方便进行一些轻算法的开发工作，甚至可以采购回去当做微型电脑用，等等
 
+### 2024-5-27 新增
+1、实现了上云api的内网部署（包括天地图的内网部署）
+2、通过1.4G和5.8G私有链路，实现大疆机场1、2或基于psdk支持的m300/m350/m30t/m3d/等机型的控制，解决了复杂地区的网络通信问题。
+3、开发了从标注、训练、使用的一体化目标检测算法平台。
+4、结果3和大疆esdk开发了实时ai叠加视频直播服务，并可以根据参数上报检测目标数据到指定地方。
+5、基于上云api的完全成品。
+
 
 #### Here is a translated version of the document generated based on ChatGPT. If there are any ambiguities, feel free to email us for further discussion: zhangxiaolan940601@gmail.com
 
