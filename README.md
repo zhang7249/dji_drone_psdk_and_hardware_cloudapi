@@ -30,7 +30,7 @@ Based on DJI drones, the PSDK provides a complete set of solutions.
 
 专业团队保障更新迭代以及bug修复。
 
-欢迎注册试用：http://36.153.47.34:8888/yunmu/index
+欢迎注册试用：[/yunmu/index](http://www.yunmu-ai.cn:8888/yunmu/gh)
 
 使用过程中有疑问或问题，及商务合作请在 个人中心-》联系我们，获取联系方式
 
