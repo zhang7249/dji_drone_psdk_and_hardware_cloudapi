@@ -35,6 +35,22 @@ Based on DJI drones, the PSDK provides a complete set of solutions.
 使用过程中有疑问或问题，及商务合作请在 个人中心-》联系我们，获取联系方式
 
 
+![77f3cf670e194acdbc4f9901636d3b97](https://github.com/user-attachments/assets/849f85ae-417e-41eb-a7d0-958a10e10148)
+
+![b02f91682d01402fbe0692aad9e80f94](https://github.com/user-attachments/assets/3be6943c-5b95-4eb6-ba0f-e77737bdcfc8)
+![cfd959318b8648bca841796ace8e4e93](https://github.com/user-attachments/assets/581126fe-8cc5-455e-82c9-df4ab2fbcb75)
+
+![b57475c399614eacaf23fdb964cefa43](https://github.com/user-attachments/assets/180e69b6-165a-4573-9f92-6926c6335819)
+![d6d3f5d2fccb4e4fa5261c7cbb85620f](https://github.com/user-attachments/assets/27612c14-bd3e-41ca-acd3-837043c78e1a)
+
+![d6dca10796c84b9e85f5bc72e8a453e0](https://github.com/user-attachments/assets/6767a6e9-158b-499f-a20b-bae751417546)
+![e0155f42a53b41ce865fa7e3237063be](https://github.com/user-attachments/assets/8ed35ef6-192e-4820-be39-52564cd00931)
+
+![07382b869c3743a28f71ddcb73a576dc](https://github.com/user-attachments/assets/aa240df5-6e87-43a0-8de3-1cdea05770ff)
+![be2d7aa47ae04b18919f44911e44273a](https://github.com/user-attachments/assets/6a7c7805-363a-4269-8bef-d27ec8bfef6b)
+![4e610d3c4a0347ba9c340322cde01e52](https://github.com/user-attachments/assets/b256cdd2-eae5-4324-b15e-b75351fece7a)
+
+
 #### 我们是一家专门基于无人机psdk和osdk进行开发应用的团队，目前生产出了可以替代官方的硬件盒子（以下简称盒子），使用了nx板+5g芯片，良好的工程设计，保证了硬件的质量稳定，性能强劲。
 ### 盒子是基于nx板，所有具有一定的算力，可以运行一些轻模型。
 #### 盒子支持挂载在大疆无人机m300,m30t,m350等主流行业级无人机上。
